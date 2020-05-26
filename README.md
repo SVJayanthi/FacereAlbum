@@ -1,7 +1,7 @@
 # Facere Album— To-Do List Project 
 
 ![Home Screen](screenshot.PNG)
-            <div align="center"><p><i>Predicted Energy (kJ/mol) vs EMT Energy (kJ/mol)</i></p></div>
+            <div align="center"><p><i>Screenshot of Front End</i></p></div>
 
 ## Description
 This application is designed to allow users to create, update, and delete tasks from their task board. The application keeps track of the status of the task and the time of creation and expected completion. The user can submit information to create a task, adjust the status of it as they progress, and check if they are on track to complete it on time.
