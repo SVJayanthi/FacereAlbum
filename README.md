@@ -1,7 +1,7 @@
 # Facere Album— To-Do List Project 
 
 ![Home Screen](screenshot.PNG)
-<center>Screenshot of Front End</center>
+<p style="text-align: center">Screenshot of Front End</p>
 
 ## Description
 This application is designed to allow users to create, update, and delete tasks from their task board. The application keeps track of the status of the task and the time of creation and expected completion. The user can submit information to create a task, adjust the status of it as they progress, and check if they are on track to complete it on time.
