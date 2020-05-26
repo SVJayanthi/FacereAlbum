@@ -1,4 +1,4 @@
-# Facere Album— To-Do List Project 
+# Facere Album
 
 ![Home Screen](screenshot.PNG)
             <div align="center"><p><i>Screenshot of Front End</i></p></div>
